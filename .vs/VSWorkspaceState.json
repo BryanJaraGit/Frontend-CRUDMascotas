@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\listado-mascota"
+  ],
+  "SelectedNode": "\\src\\app\\components\\listado-mascota\\listado-mascota.component.ts",
+  "PreviewInSolutionExplorer": false
+}
